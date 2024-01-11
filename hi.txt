@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Ashish
 Bistadsadadadgfdgdgdg
 Kaka HI
-=======
 
 Bista
->>>>>>> origin/main
